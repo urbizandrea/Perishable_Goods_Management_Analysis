@@ -11,9 +11,12 @@ Currently, the waste of perishable goods exceeds 20%, which is more than the dou
 The dataset, sourced from Kaggle, covers transactions from 2023 to 2024 across 20 stores located in 5 regions of the United States. It includes information on 10 product categories, inventory movements, logistics scores, profits, and costs. (Dataset link: https://www.kaggle.com/datasets/likithagedipudi/perishable-goods-management).
 
 ## Methodology
-1. Python - Data cleaning and transformation
-2. Excel - Consistency checks
-3. Power BI - Data visualization and storytelling
+### Python (Google Colab)
+   Data cleaning and transformation - Removed duplicates, standardized data format, handled missing values, and data validation for data accuracy.
+### Excel 
+   Consistency checks - Reviewed the dataset to ensure its completeness and validity.
+### Power BI
+   Data visualization and storytelling - Ensured the inclusion of key data points, utilized data visualization to enhance understanding, and reviewed the coherence of the graphs to create a clear and smoothly flowing data narrative.
 
 ## Key Analysis & Visualization
 ![1st Project_page-0002](https://github.com/user-attachments/assets/cbc956b5-a0d6-4d25-b8cb-6a62350e2158)
