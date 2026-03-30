@@ -32,7 +32,7 @@ This occurrence can be attributed to the level of the packaging of the product, 
 ![1st Project_page-0005](https://github.com/user-attachments/assets/5935692a-d09b-4791-b9b5-9fb674ada8ec)
 The **logistic performance of the product as well negatively affects a certain product category lifespan**. This is further corroborated by the product's sensitivity to spoilage in which both Pharmaceuticals and Meat product categories act preeminence in sensitivity to spoilage. 
 
-![1st Project_page-0006](https://github.com/user-attachments/assets/3c521398-eaac-4443-8cca-896ff1591f45)
+![1st Project_page-0001 (1)](https://github.com/user-attachments/assets/d144ae7c-5891-4837-88ca-eb1c4e68e3dd)
 In the overall management **the data revealed that there is an unbalanced check of demand and supply of products**, especially Frozen Meals and Pharmaceutical product categories.
 
 ## Recommendations
